@@ -8,16 +8,16 @@
 
   <!-- CONNECT WITH ME -->
   <p align="center">
-    <a href="https://linkedin.com/in/USERNAME">
+    <a href="https://linkedin.com/in/farrel-nathaniel">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10141a" alt="LinkedIn" />
     </a>
     <a href="https://github.com/USERNAME">
       <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=10141a" alt="GitHub" />
     </a>
-    <a href="https://instagram.com/USERNAME">
+    <a href="https://instagram.com/farlnthniel">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=10141a" alt="Instagram" />
     </a>
-    <a href="mailto:EMAIL@DOMAIN.COM">
+    <a href="mailto:farrelnataniel2030@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=10141a" alt="Email" />
     </a>
   </p>
