@@ -11,7 +11,7 @@
     <a href="https://linkedin.com/in/farrel-nathaniel">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10141a" alt="LinkedIn" />
     </a>
-    <a href="https://github.com/USERNAME">
+    <a href="https://github.com//farrel0109">
       <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=10141a" alt="GitHub" />
     </a>
     <a href="https://instagram.com/farlnthniel">
